@@ -3,6 +3,8 @@
 
 AI Image Generation API with Flask
 
+
+![image](https://github.com/princegajera1/PRODIGY_GA_02/blob/d4c26da62a65dbd3367946a3089836d8a7c6265c/Screenshot%202025-07-11%20092630.png)
 This project is a simple Flask application that serves as a backend for generating images from text prompts using the Hugging Face Inference API for Stable Diffusion.
 
 Features
